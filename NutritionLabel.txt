@@ -201,3 +201,8 @@ Step 30
 
 Шаг 34
 Создайте новый .calories-info селектор и дайте ему свойство 'flex'. Также дайте ему свойство justify-content, установленное для свойства space-between и align-items, установленное для flex-end.
+
+
+
+Шаг 35
+Создайте новый .left-container p селектор, устанавливая верхний и нижний margin на -5px, а левый и правый - на -2px. Также установите font-size на 2em и font-weight на 700.
