@@ -391,3 +391,8 @@ div:not(#example) {
 Пример кода
 
 * The % Daily Value (DV) tells you how much a nutrient in a serving of food contributes to a daily diet. 2,000 calories a day is used for general nutrition advice.
+
+
+
+Шаг 67
+Создайте селектор .note и установите размер шрифта на 0.6rem. Также установите верхнюю и нижнюю margins на 5 px, удаляя левую и правую.
