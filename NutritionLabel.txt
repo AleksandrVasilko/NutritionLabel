@@ -380,3 +380,14 @@ div:not(#example) {
 
 Шаг 65
 Создайте окончательный элемент р для вашего .daily-value секции. Дайте ему текст Калий 235mg 6%. Выровнять текст на 6% вправо и удалить нижнюю границу элемента р.
+
+
+
+Шаг 66
+Добавить medium разделитель после элемента .daily-value. Ниже этого нового разделителя, создать элемент p с атрибутом класса, установленным note.
+
+Введите для элемента р следующий текст:
+
+Пример кода
+
+* The % Daily Value (DV) tells you how much a nutrient in a serving of food contributes to a daily diet. 2,000 calories a day is used for general nutrition advice.
